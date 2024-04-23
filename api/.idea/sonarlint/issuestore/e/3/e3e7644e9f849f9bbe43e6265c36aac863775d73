@@ -1,0 +1,5 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ó„ËÙğ1J$e3eafe45-814c-4e0a-b5ff-404e986df915
+¢
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(ø¯Æûüÿÿÿÿ8Õ„ËÙğ1J$775fa6c9-2eed-4527-95b3-74a8ae717dfb
